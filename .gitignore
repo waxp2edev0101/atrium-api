@@ -1,0 +1,14 @@
+/.cache
+/dist
+node_modules
+/.DS_Store
+/server/lib
+package-lock.json
+rooms/.DS_Store
+server/.DS_Store
+server/rooms/.DS_Store
+.idea
+.env
+/uploads/*
+!/uploads/.gitignore
+yarn.lock
